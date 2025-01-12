@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+
+}
+
+.titulo {
+    color: coral;
+    font-size: 6ch;
+}
+
+.parrafo {
+    color: black;
+    font-size: x-large;
+
+}
+.parrafo-grupo{
+    color: darkslategray;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 1000px;
+}
+thead{
+    background-color: black;
+}
+
