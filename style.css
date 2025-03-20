@@ -21,3 +21,10 @@ thead {
   background-color: black;
 }
 
+.subtitulo {
+  color: dimgrey;
+  front-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 1000px;
+}
+ 
