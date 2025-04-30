@@ -28,3 +28,18 @@ thead {
   width: 1000px;
 }
  
+.reproductor {
+  width: 400px;
+      background-color: #f0f0f0;
+      border: 2px solid #444;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      border-radius: 10px;
+    }
+
+    button {
+      padding: 5px 15px;
+      font-size: 16px;
+    }
